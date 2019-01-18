@@ -1,0 +1,94 @@
+Definição
+
+Antes de iniciar o resumo sobre ITIL é importante dizer o que significa a sigla, em ingles é Information Technology Infrastructure Library traduzindo Biblioteca de Infra-estrutura de TI.
+a ITIL é voltado para os processos de TI focado em prestação de serviço, esse modelo é o mais utilizado mundialmente. A metodologia foi criada a partir de pesquidas realizadas por consultores, especialistas e dotores a fim de construir as melhores praticas para o gerenciamento da infraestrutura de TI, garantido assim os niveis de serviço acordandos com os clientes.
+
+Beneficios
+
+Fortalecimento dos Controles e da Gestão dos ambientes de TI.
+Orientação a processos com significativa redução nos tempos de execução e distribuição de serviços.
+Diminuição gradativa da indisponibilidade dos recursos e sistemas de tecnologia da informação, causados por falhas no planejamento das mudanças e implantações em TI.
+Elevação dos níveis de satisfação dos usuários internos e clientes com relação à disponibilidade e qualidade dos serviços de TI.
+Redução dos custos operacionais de TI.
+
+Procesos
+
+A ITIL possui cinco estagios de ciclo de vida de serviço, dentro de cada ciclo a itil tem seus processos a serem cumprido com o objetivo de controlar e garantir a qualidade dos serviços prestados.
+
+Com base na leitura do material e minha percepção leiga sobre o assunto descreverei o entendimento de cada processo com base no que absorvi com a leitura. A ITIL é muito complexa e extensa para se definir com certeza em resumo o que se trata cada processo.
+
+Os ciclos de vida de serviço são:
+
+Estratigia de Serviços: 
+
+Cria conceitos de um conjunto de serviços que ajudam o negocio da organização a alcançar seus objetivos. Relacionados a esses serviços são tomadas as decisões estratégicas de como serão desenolvidas
+Dentro da estratégia de serviço, a ITIL contempla os seguintes processos:
+Gestão de estratéria,Gerenciamento Financeiro,Gerenciamento de Portifolio de Serviços e Gerenciamento de demanda.
+
+De forma resumida, os processos dentro desse ciclo são basicamente:
+Gestão de Estratégia - faz um estudo levando em consideração a perspectiva, o padrão, o plano e a posição, verifica os ativos de recursos e habilidades.
+Gerenciamento Financeiro - busca quantificar o valor dos serviços e dos ativos.
+Gerenciamento de Portifólio - informações de todos os serviços do ciclo de vida, tanto os que estão em operação, os que estão em produção. 
+Gestão de Demanda - é entendido e influenciado as demandas de clientes pelos serviços e provisão de capacidade para o atendimento as demandas.
+
+
+Desenho de Serviço: 
+
+Desenha o que a estratégia decidiu, tendo em mente os objetivos de utilidade e garantia. Dentro do desenho de serviço, a ITIL contempla os seguintes processos: 
+Gerenciamento da Capacidade - é garantir que a capacidade dos serviços e a infraestrutura de TI sejam capazes de atender aos requisitos maneira oportuna e eficaz em custo.
+
+Gerenciamento da continuidade do serviço de TI -  responsável pela habilidade de recuperação necessária para os serviços de TI e seus componentes de apoio em um evento de desastre. 
+
+Gerenciamento da disponibilidade - visa fornecer com o custo adequado um determinado nível de disponibilidade dos serviços de TI, que permita ao negócio atingir seus objetivos.
+
+Gerenciamento de Fornecedor - garantir que os contratos com os fornecedores estejam alinhados com as necessidades do negócio.
+ 
+Gerenciamento de segurança da informação - boas praticas de segurança da informação, afim de mater os controles relacionado a informação da organização, 
+
+Gerenciamento do catalogo de serviços - manter o controle dos serviçoes prestados.
+
+Gerenciamento do nivel do serviço - é o processo que forma o vínculo entre o departamento de TI e a organização, em muitas organizações é conhecido como SLA.
+
+
+
+Transição de Serviço: Os serviços são elaborados e desenvolvidos, são realizado testes epós a conclusão da eficiencia desse serviço, o mesmo é transferido para o ambiente de produção, toda essa transição é realizada de forma controlada seguindo os processos: 
+avaliação - o proprio nome define do que se trata, é a avaliação referente a transição do serviço afim de garantir a qualidade no serviço prestado, 
+gerenciamento da configuração e de ativo de serviço - garante que o que foi realizado será o mesmo que será implementado 
+gerenciamento de liberação e implantação - controla a liberação e implantação do serviço realizado em ambiente de testes, gerenciamento de mudanças - analisa mudanças afim de melhorar o serviço apresentado, 
+gerenciamento do conhecimento - é importante que o serviço seja bem descrito afim de controlar o conhecimento em volta dessa serviço, 
+
+planejamento e suporte da transição - realização do planejamento a fim de dar todo o suporten necessario para que a transição do serviço seja realizada da melhor forma possivel 
+
+validação e testes de serviço - garantia de que tudo que foi desenhando foi atendido e se estão aptos a entrarem em produção.
+
+Operação de serviço: gerencia os serviços apos a transição do serviço, garantindo que o que foi realizado esteja de acordo com o que foi planejado. São os processos do dia a dia , que se referem a: 
+Cumprimento de requisição: verifica se tudo que foi requerido foi contemplado.
+As demais gestões que são :gerenciamento de acesso , gerenciamento de eventos, gerenciamento de incidentes, gerenciamento de problemas são am operação do serviço no seu dia a dia,cada um desses gerenciamentos tem o papel de garantir que o serviço está sendo executado da maneira que foi desenhado para garantir o objetivo traçado na estratégia.
+
+
+Melhoria continua de serviços: Avalia os serviços e identifica as melhorias para garantir a utilidade e garantia no suporte aos objetivos do negocio. Seus processos são: Mensuração de serviços, Processos de melhoria em etapas e
+Relatorio de serviços. Esses processos garante que o serviço não se torna obsoleto, e cada melhoria a ser realizada garante a eficiencia do serviço, e os relatorio são excenciais a continuidade do serviço.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

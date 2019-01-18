@@ -1,0 +1,11 @@
+As notas desse fórum, do outro fórum e da atividade Baseada em COBIT e Gerenciamento de Projeto 
+
+serão somadas e sua media vale 10% da nota. A atividade é individual. O conteúdo da atividade tem utilidade na carreira de vocês.  Como mencionado no planejamento de aula para ser um bom gestor de projetos de tecnologia da informação é preciso de fato conhecer tecnologia da informação. Como gerir um projeto e liderar pessoas para a implementação de serviços de TI e hardware sem compreender do que se está falando e sem poder aplicar este conhecimento especificamente à necessidade de uma organização? Há inclusive certificação ITIL muito reconhecida no mercado.
+
+A atividade consiste em acessar o link 6 e baixar o documento do ITIL (quem não lê inglês, busque no Google por “download ITIL 1.3 português pdf e encontrará). Lê-lo e postar no fórum com suas palavras*:
+
+- um resumo sobre a principal aplicação do framework
+
+- um resumo de cada um dos seus processos dentro de seu ciclo de vida de no mínimo 10 (dez) linhas cada
+
+- e qual o processo você enxerga que hoje sua empresa mais necessita 

@@ -1,0 +1,46 @@
+Atividade: Baseada no Case Apresentado
+
+
+
+Esta atividade será baseada no CASE apresentado em um documento a parte postado no Moodle. A atividade é em grupo e vale 20% da nota. Será realizada com base em todo o conteúdo apresentado em aula e nos materiais adicionais estudados. O CASE será apresentado em um documento à parte postado no Moodle.
+
+ 1ª Entrega
+•Estudar os principais CMS (Content Management System) do mercado. A matriz da empresa está pensando em utilizar um chamado Liferay, mas apresentar ao menos mais 2 (duas) soluções, e já levantem preço da aplicação.
+•Levantem quem são representantes para implementá-las, no mínimo 3.
+•Inteirar-se de uma solução de Liferay web implantada.
+•Identifiquem quais informações fazem parte de um sinistro de garantia estendida.
+•Mapear usuários chaves, responsáveis, facilitadores; entre outros atores importantes;
+•Identifiquem os processos separadamente, quantos são e os nomeiem.
+
+2ª Entrega
+•Criar um macro fluxo dos processos em Visio, considerando todas as interações com cliente, seguradora, Contact Center se se fizer necessário. Pensem, criem e desenhem a solução.
+•Identifiquem quantas telas serão necessárias neste projeto. Façam os protótipos das telas.
+•Com base nos protótipos, identifiquem e mapeiem requisitos funcionais e não funcionais.
+•Já comecem a documentar os principais riscos que identificarem.
+•Considerando a infraestrutura, por tratar-se de uma aplicação web, a companhia é bastante cuidadosa e restritiva neste sentido, por isso quer utilizar um WAF (Web Application Firewall). Estão pensando em selecionar uma chamada F5, mas precisam de empresas que a implemente, busquem pelo menos 3 empresas e levantem preços.
+•Além do WAF o que mais seria preciso considerar em termos de infraestrutura?
+•Escreva um capitulo de como será o pós-implantação para TI uma vez que a tecnologia não existe hoje.
+
+ Apresentar um único documento contendo documentação completa solicitada em capítulos, baseada em tecnologia e metodologia adequadas para a fase do quanto falta para as etapas futuras.
+
+ O documento deverá conter, capa, sumário executivo com o contexto da empresa e do projeto, índice, índice de tabelas, índice de figuras, índice de anexos, letra arial, tamanho 10, ou seja, deve ser muito bem organizado e sua ordem deve fazer sentido para que o cliente, o compeenda.
+
+ Anexar
+•Propostas de contrato de prestação de serviços de desenvolvimento.
+•Propostas de aquisições com níveis de serviços adequados ao projeto.
+•Propostas de contrato de suporte e manutenção pós-implantação.
+•Planilhas de custos de projeto.
+•Cronograma macro do projeto (pode ser em excel – em semanas).
+
+Qualquer conteúdo “copy paste” encontrado nos trabalhos será considerado plágio a nota será descondierada e 2 pontos serão tirados da nota final do aluno na disciplina.
+
+
+Status de envio
+
+Esta tarefa aceitará envios a partir de quarta, 27 agosto 2014, 19:00
+
+
+Status de envio Nada foi enviado para esta tarefa 
+Status da avaliação Não há notas 
+Data de entrega segunda, 8 setembro 2014, 23:55 
+Tempo restante 14 dias 2 horas 

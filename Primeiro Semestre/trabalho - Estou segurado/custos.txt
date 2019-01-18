@@ -1,0 +1,7 @@
+Desenvolvimento do projeto 1500
+Definição 1250
+Detalhamento do conteúdo das seções e subseções do site e coleta do material 1000
+Desenvolvimento do layout (programação visual) em modo de telas estáticas
+3750
+Implementação do sistema 2000
+Configurações necessárias de acordo com o projeto e layout desenvolvidos nas fases anteriores 500

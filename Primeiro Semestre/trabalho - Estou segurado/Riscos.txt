@@ -1,0 +1,24 @@
+2ª Entrega
+•Mapear usuários chaves, responsáveis, facilitadores; entre outros atores importantes; (stakeholders).
+•Identifiquem quantas telas serão necessárias neste projeto. Façam os protótipos das telas. (escopo)
+•Com base nos protótipos, identifiquem e mapeiem requisitos funcionais e não funcionais. (escopo)
+•Já comecem a documentar os principais riscos que identificarem. (riscos)
+•Considerando a infraestrutura, por tratar-se de uma aplicação web, a companhia é bastante cuidadosa e restritiva neste sentido, por isso quer utilizar um WAF (Web Application Firewall). Estão pensando em selecionar uma chamada F5, mas precisam de empresas que a implemente, busquem pelo menos 3 empresas e levantem preços. (aquisições)
+•Além do WAF o que mais seria preciso considerar em termos de infraestrutura? (escopo/aquisições)
+•Escreva um capitulo de como será o pós-implantação para TI uma vez que a tecnologia não existe hoje.
+•Identifique pontos de qualidade que podem ser considerados para um plano ao longo do projeto e os liste.
+•Liste quais perfis/funções de recursos humanos serão necessários para a execução deste trabalho.
+•Imaginando que o Projeto comece em D elabore um plano de comunicação que foi apresentado no kick-off e que será utilizado para o projeto
+
+
+
+Riscos:
+
+- Indisponibilidade de serviço
+- Input de dados inadequado
+- indisponibilidade de serviço no meio da transação
+- segurança das informações dos clientes
+
+waf
+
+ 

@@ -1,0 +1,138 @@
+Tarefa: Utilização do Microsoft Project
+
+
+
+Nessa atividade você deve fazer um curso online em Project disponível no site da Microsoft e manipular tarefas em um projeto no Microsoft Project e entregar o arquivo resultante.
+
+O curso Introdução ao Project 2010 está disponível no site da Microsoft na área de suporte. Clique no link a seguir e faça todo o treinamento antes de realizar as atividades.
+
+http://office.microsoft.com/pt-br/project-help/introducao-ao-project-2010-RZ101831071.aspx?section=1
+
+Depois de assistir o treinamento, abra o Microsoft Project e execute as atividades a seguir:
+
+ 
+
+1.    Cadastrar Tarefas
+
+Cadastrar as seguintes tarefas do projeto:
+
+ID   Nome da Tarefa
+
+01    Lançamento Comercial de produto
+
+02    Rotinas da Administração
+
+03    Comunicar Metas
+
+04    Providenciar Registro
+
+05    Contatar Veículo Propaganda
+
+06    Comprar Material de Propaganda
+
+07    Discutir Vendas
+
+08    Reavaliar Processos
+
+09    Discutir Lançamento
+
+10    Conferir material propaganda
+
+11    Distribuir material propaganda
+
+12    Veicular comercial
+
+13    Lançar Produto
+
+14    Rotinas de Produção
+
+15    Produzir Protótipo
+
+16    Produzir Produto
+
+17    Produzir Embalagem
+
+18    Pronto para Embalar
+
+19    Embalar
+
+20    Carregar
+
+21    Distribuir
+
+22    Teste de Qualidade
+
+23    Colher/testar Amostra
+
+24    Analisar Resultados
+
+25      Redigir Relatório Técnico
+
+  
+
+2.     Determinar a ordem de subordinação das tarefas em relação às tarefas sumárias, conforme a seguir:
+
+ID   Nome da Tarefa
+
+01    Lançamento Comercial de produto
+
+02        Rotinas da Administração
+
+03              Comunicar Metas
+
+04              Providenciar Registro
+
+05              Contatar Veículo Propaganda
+
+06              Comprar Material de Propaganda
+
+07              Discutir Vendas
+
+08              Reavaliar Processos
+
+09              Discutir Lançamento
+
+10              Conferir material propaganda
+
+11              Distribuir material propaganda
+
+12              Veicular comercial
+
+13              Lançar Produto
+
+14        Rotinas de Produção
+
+15              Produzir Protótipo
+
+16              Produzir Produto
+
+17              Produzir Embalagem
+
+18              Pronto para Embalar
+
+19              Embalar
+
+20              Carregar
+
+21              Distribuir
+
+22              Teste de Qualidade
+
+23                    Colher/testar Amostra
+
+24                    Analisar Resultados
+
+25                    Redigir Relatório Técnico
+
+ 
+
+Faça a entrega do arquivo do Project resultante da atividade.
+
+
+Status de envio
+
+
+Status de envio Nada foi enviado para esta tarefa 
+Status da avaliação Não há notas 
+Data de entrega segunda, 25 agosto 2014, 13:00 
+Tempo restante 12 dias 17 horas 

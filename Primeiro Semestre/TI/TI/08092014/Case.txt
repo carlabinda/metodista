@@ -1,0 +1,48 @@
+
+
+
+ 1ª Entrega
+•Estudar os principais CMS (Content Management System) do mercado. A matriz da empresa está pensando em utilizar um chamado Liferay, mas apresentar ao menos mais 2 (duas) soluções, e já levantem preço da aplicação.
+
+Os principais CMS do mercado são WordPress, Joomla! e Drupal, juntos representan 75% de market share na categoria.
+Todas essas soluções são gratuitas.
+
+
+
+•Levantem quem são representantes para implementá-las, no mínimo 3.
+
+WordPress - Representante ImpactaMidia tel SP: (11) 4063-7731
+
+•Inteirar-se de uma solução de Liferay web implantada.
+
+Um caso de sucesso com a solução Liferay é a seguradora MAPFRE, que utilizou a solução para reestruturar e modernizar o portal da empresa. O site tem uma area especifica para aviso de sinistro, envio de documentação entre outras funcionalidades.
+
+Segundo o site https://www.liferay.com/products/liferay-portal/stories/mapfre-insurance, onde se refere a solução apresentada, há uma referencia ao produto informando : 
+"...Pode-se citar como exemplo, na área de seguros, a necessidade de atualizações constantes nas Condições Gerais e novas vigências das apólices, onde o time de negócios, em poucos cliques, altera os arquivos correspondentes e atualiza o portal..."
+
+Além da MAPFRE, outras empresas de grande porte utiliza a ferramenta como  Carrefour, Toyota, BASF. Escolhi a MAPFRE como Solução Liferay pois se trata do mesmo contexto que o case, implementação de um site de consulta de sinistro via web. 
+
+
+
+•Identifiquem quais informações fazem parte de um sinistro de garantia estendida.
+
+O seguro de Garantia Estendida tem por objetivo fornecer ao segurado a extensão e/ou complementação da garantia original de fábrica, estabelecida no contrato de compra e venda de bens de consumo duráveis. Ou seja, ao contratar o seguro de Garantia Estendida, o segurado está aumentando o prazo de garantia concedido pelo fabricante, ou complementando as garantias oferecidas.
+
+
+51 3024.1070
+O segurado deverá informar o número do certificado de seguro e o defeito que o produto está apresentando.
+
+Os documentos são, em geral, são:
+Senha de atendimento informada pela Central de Atendimento
+nota fiscal de compra do produto
+apólice/ certificado de contratação do seguro
+CPF de quem comprou a garantia estendida.
+
+Na hipótese de impossibilidade do reparo e/ou reposição do bem por outro igual ou similar (mesmas características funcionais), mediante acordo entre as partes, a indenização poderá ser paga em dinheiro. Nesse caso, é necessário apresentar documentos específicos para o reembolso como cópia do RG, cópia do CPF, autorização de depósito em conta, etc.
+
+
+
+•Mapear usuários chaves, responsáveis, facilitadores; entre outros atores importantes;
+
+
+•Identifiquem os processos separadamente, quantos são e os nomeiem.

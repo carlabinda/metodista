@@ -1,0 +1,54 @@
+Resumo COBIT
+
+Para que possamos iniciar um resumo sobre o COBIT é importante sabermos o que significa a sigla, em ingles é Control Objectives for Information and related Technology traduzindo Objetivos de Controle para Informações e Tecnologias relacionadas.
+Como a propria tradução se refere, o COBIT auxilia nos controles de informação e tecnologia em uma organização.
+O COBIT é focado na questão do que é necessário para alcançar uma adequada Gestão e efetuar o Controle das atividades de TI, tornando mais transparente os resultandos. Alinhado a estratégia da organização fornecendo aquilo que é necessario para o crescimento de seus negocios e não ser uma TI de ultima geração.
+
+Os beneficios de uma implementação COBIT para governança de TI são inumeras, as algumas o descrevem de forma clara e objetiva, resumidamente os objetivos são: Alinhamento com as estratégias de negocio, visão clara das atividades da TI para a alta direção da organização, orientado a processos, baseado em uma liguagem comum e padronizada garantindo o o entendimento de todos.
+
+PO1 –Define a strategic IT plan –Definir um Plano Estratégico de TI
+
+Criar um plano estratégico que defina como a TI contribuirá com os objetivos estratégicos da organização.  O plano deve definir como os objetivos serão atingidos e medidos e deve ser liberado para implementação pelas partes interessadas. 
+
+
+PO2 –Define the information architecture –Definir a Arquitetura da Informação
+
+Para otimizar o uso da informação deve-se criar e atualizar um modelo de informação de negocios e difinir sistemas de uso da informação, é importante criar um glossoario de dados, regras e esquemas afim de garantir a segurança da informação na empresa, com isso garante uma melhor qualidade no gerenciamento tendo certeza de que a informação é confiavel.
+
+
+PO3 –Determine technological direction –Determinar o Direcionamento Tecnológico
+
+É necessario determinar uma direção referente a tecnologia para atender as necessidades do negocio, com criação de um plano de insfraestrutura, serviços, e entregas. Com isso facilitará as mudanças afim de se tornar mais competitivo, economia e investimentos alinha ao negocio da organização.
+
+PO4 –Define the IT processes, organization and relationships –Definir os Processos de TI, organizações e relacionamentos
+
+Acredito que esse é um topico de estrema importancia, pois faz com que os controle e processos sejam realizados de forma a conduzir o melhor andamento do negocio. Esse topico é claro e objetivo na sua definição, é
+definida considerando os requisitos de pessoal, habilidades, funções, autoridade, papéis e responsabilidades, rastreabilidade e supervisão. assegurando transparêcia e controle, com o intuito de assegurar o atendimento das exigências do negócio, a TI deve ser envolvida nos processos de decisão relevantes.  
+
+PO5 –Manage the IT investment –Gerenciar os investimentos de TI
+
+Gerenciar os investimento da TI de acordo com o orçamento disponibilizado pela organização garante o uso eficar e eficiente dos recursos da TI, é preciso realizar inventimentos para que o negocio sempre se mantenha competitivo no mercado e o gerenciamento garante que isso ocorra contemplando custos , beneficios  e prioridades.
+
+PO6 –Communicate management aims and direction –Comunicar e Gerenciar os Objetivos e Direcionamento da Gestão
+
+Se trata de uma estrutura de controle, definição e politicas com objetivo relacionado a missão, metas, politica, procedimentos entre outros, assegurando o entendimento do negocio, riscos e diretrizes, levando em consideração as leis e regulamentações.
+
+PO7 –Manage IT human resources –Gerenciar os Recursos Humanos de TI
+
+A definição de Gerenciar recursos humanos de TI nesse processo do COBIT não cabe resumo, pois a definição desse processo é clara e objetiva, citar o conteudo na sua integra se faz necessario pois estamos nos referindo ao entendimento humando, então a definição completa é: adquirir, manter e motivar uma força de trabalho competente garantindo a entrega de  serviços de TI para o negócio. Isso é alcançado seguindo práticas definidas e acordadas de recrutamento, treinamento, avaliação de desempenho, promoção e desligamento.
+
+PO8 –Manage quality –Gerenciar a Qualidade
+
+A qualidade é um dos pontos mais importantes na TI, e não é simples manter uma qualidade sem ter planejamento, implementação e manutenção de um sistema de gestão de qualidade, com base em indicadores deve ser realizada por constante monitoramento, análise e atuação sobre desvios e na comunicação dos resultados às partes interessadas, dessa forma a TI mostra valor ao negocio.
+
+
+
+PO9 –Assess and manage IT risks –Avaliar e Gerir os Riscos de TI
+
+Os riscos são constantes, uma má gestão desses riscos podem derrubar qualquer planejamento realizado. Com essa analise conseguimos nos cercar e tomar ações para que um risco não gerenciado possa acabar com uma ação dentro da organização. Temos sempre que prever no maximo qualquer risco e deixar definido um plano de ação caso ocorra.
+
+PO10 –Manage projects –Gerenciar Projetos
+
+O processo PO10 engloba todos os outros processos, se refere ao gerenciamento completo de todos os processos afim de mostrar o melhor resultado do que foi proposto. A definição contida COBIT4.1 utilizado como base de pesquisa explica de forma simples esse processo, dessa forma não cabe resumo, algumas coisas devem ser ditas da maneira que foram definidas, então o processo PO10 se refere a : estabelecer um programa e uma estrutura de gestão de projeto para o gerenciamento de todos os projetos de TI. Essa estrutura deve assegurar a correta priorização e a coordenação de todos os projetos. A estrutura deve incluir um plano mestre, atribuição de recursos, definição dos resultados a serem entregues, aprovação dos usuários, uma divisão por fases de entrega, garantia da qualidade, um plano de teste formal e uma revisão pós-implementação para assegurar a gestão de risco do projeto e a entrega de valor para o negócio. Esta abordagem reduz o risco de custos inesperados e de cancelamentos de projeto, aperfeiçoa a comunicação, melhora o envolvimento das áreas de negócio e dos usuários finais, assegura o valor e a qualidade dos resultados do projeto e maximiza a contribuição para os programas de investimentos em TI.
+
+Dentre todos os processos estudados, de forma superficial, pois o COBIT é bem detalhista em cada processo, e isso determina um estudo mais a fundo de todos os processos, o ponto que considero que a empresa onde trabalho está falha são os processos PO07 e PO08, os recursos humanos não estão sendo geridos de forma a ter uma equipe integrada, unida em seguir como um unico grupo e com isso a qualidade dos projetos não estão de acordo com o que espera a diretoria.
