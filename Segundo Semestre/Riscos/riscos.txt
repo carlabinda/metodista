@@ -1,0 +1,152 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+
+ ** Riscos **
+
+# Diagnosticos
+
+1.1) Previsao de custo inadequado - 50% - Alto
+> Mitigar: Reunião com especialistas
+> Mitigar: Criar reserva de capital como margem de segurança
+
+1.2) Mão de obra não qualificada - 25% - Médio
+> Mitigar: Ministrar treinamento
+> Transferir: Contratar uma empresa especializada
+
+1.3) Inexperiência dos consultores em PMBok - 75% - Alto
+> Previnir: Exigir certificação PMP
+> Mitigação: Exigir 5 anos de experiência
+
+
+# Hardware
+
+2.1) Conflito entre instalação e demanda - 50% - Alto
+> Previnir: Contratar empresa terceirizada
+> Mitigar: Realização de testes prévios
+
+2.2) Quantidade de servidores insuficiente - 25% - Alto
+> Prevenção: Contratar serviços na nuvem
+> Mitigar: alocar servidores reservas
+
+2.3) Falta de conhecimento para instalação - 25% - Médio
+> Previnir: exigir certificação
+> Mitigar: Realização de treinamento
+
+
+# Software
+3.1) Software não atende aos requisitos do projeto - 50% - Alto
+> Previnir: Testes prévios com o sistema
+> Mitigação: Estudo das necessidades x aderência
+
+3.2) Quantidade de licenças previstas é insuficiente - 50% - Médio
+> Mitigação: virtualização
+> Exploração: possibilidade de uso de software livre
+
+3.3) Orçamento insuficiente para as licenças - 75% - Médio
+> Exploração: uso de software livre
+> Mitigação: uso de fundo de reserva
+
+
+# Treinamento
+
+4.1) Disponibilidade do pessoal para o treinamento - 75% - Alto
+> Previnir: Agendamento prévio
+> Explorar: utilização de EAD ou vídeo conferência
+
+4.2) Localização e transporte - 50% - Médio
+> Explorar: utilização de EAD ou vídeo conferência
+> Previnir: treinamento interno
+
+4.3) Material e tempo inadequado - 50% - Médio
+> Tranferir: contratar empresa especializada
+> Mitigar: uso de caso anterior
+
+
+# Implementação
+
+5.1) Disponibilidade de mão de obra - 75% - Alto
+> Tranferir: contratar empresa 
+> Mitigar: garantir disponibilidade com escala
+
+5.2) Período de suporte curso - 50% - Médio
+> Previnir: atendimento maior com SLA
+> Explorar: terinar uma equipe de suporte
+
+5.3) Simultâneadade da implementação - 75% - Alto
+> Mitigar: utilizar calendário de implementação
+> Mitigar: utilizar Gerenciamento de Mudanças
+
+
+ 
